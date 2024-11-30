@@ -1,16 +1,10 @@
-# taskup
+TaskUP
+Nome dos integrantes do grupo
+Beatriz Silva Murta - 1221127974
+Gustavo Lúcio Alves Cruz -1221116563
+Ana Clara Mendes da Silva - 324268144
+Daniel Gelotti Crespo - 12524231861
+Dyon Fraga Comassetto - 324241390
+Mauricio Floquet - 12724210579
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Vídeo demo do App e PDFhttps://drive.google.com/drive/u/1/folders/1rQa6aGE0UO7tn-bcrx65JaX2E6Go3pXl
