@@ -53,10 +53,10 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.white,
+      backgroundColor: const Color.fromARGB(255, 255, 255, 255),
       appBar: AppBar(
         elevation: 0,
-        backgroundColor: Colors.white,
+        backgroundColor: const Color.fromARGB(255, 255, 255, 255),
         title: Text(
           "My notes",
         ),
@@ -139,7 +139,7 @@ class _HomeScreenState extends State<HomeScreen> {
           _loadNotes();
         },
         child: Icon(Icons.add),
-        backgroundColor: Color(0xFF50c878),
+        backgroundColor: Color.fromARGB(255, 8, 4, 86),
         foregroundColor: Colors.white,
       ),
     );

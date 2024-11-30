@@ -19,12 +19,12 @@ class _AddEditNoteScreenState extends State<AddEditNoteScreen> {
   Color _selectedColor = Colors.amber;
   final List<Color> _colors = [
     Colors.amber,
-    Color(0xFF50C878),
-    Colors.redAccent,
-    Colors.blueAccent,
+    Color.fromARGB(255, 5, 133, 48),
+    const Color.fromARGB(255, 0, 97, 132),
+    const Color.fromARGB(255, 0, 94, 255),
     Colors.indigo,
-    Colors.purpleAccent,
-    Colors.pinkAccent,
+    const Color.fromARGB(255, 100, 3, 117),
+    const Color.fromARGB(255, 151, 6, 55),
   ];
 
   @override
